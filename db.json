@@ -1,0 +1,235 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@mail.com",
+      "phone": "0123456789",
+      "birthday": "1990-01-01",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@mail.com",
+      "phone": "0987654321",
+      "birthday": "1992-05-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/22",
+      "major": "Computer Science",
+      "admissionYear": "2023"
+    },
+    {
+      "id": 3,
+      "name": "David Johnson",
+      "email": "david@mail.com",
+      "phone": "0456789123",
+      "birthday": "1991-11-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "55/33",
+      "major": "Electrical Engineering",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "email": "emily@mail.com",
+      "phone": "0765432190",
+      "birthday": "1993-08-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "75/50",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 5,
+      "name": "Michael Wilson",
+      "email": "michael@mail.com",
+      "phone": "0234567891",
+      "birthday": "1989-04-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "60/40",
+      "major": "Biology",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Davis",
+      "email": "sarah@mail.com",
+      "phone": "0345678912",
+      "birthday": "1994-02-28",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "70/55",
+      "major": "Chemistry",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 7,
+      "name": "James Miller",
+      "email": "james@mail.com",
+      "phone": "0567891234",
+      "birthday": "1995-07-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "80/60",
+      "major": "Physics",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Wilson",
+      "email": "olivia@mail.com",
+      "phone": "0678912345",
+      "birthday": "1996-10-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "55/35",
+      "major": "Environmental Science",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 9,
+      "name": "William Lee",
+      "email": "william@mail.com",
+      "phone": "0765432109",
+      "birthday": "1997-12-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/30",
+      "major": "Mathematics",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 10,
+      "name": "Ava Garcia",
+      "email": "ava@mail.com",
+      "phone": "0876543210",
+      "birthday": "1998-03-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "History",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 11,
+      "name": "Liam Martinez",
+      "email": "liam@mail.com",
+      "phone": "0987654321",
+      "birthday": "1999-06-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "75/55",
+      "major": "Psychology",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 12,
+      "name": "Mia Taylor",
+      "email": "mia@mail.com",
+      "phone": "0123456789",
+      "birthday": "2000-09-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "85/60",
+      "major": "Sociology",
+      "admissionYear": "2018"
+    },
+    {
+      "id": 13,
+      "name": "Elijah Johnson",
+      "email": "elijah@mail.com",
+      "phone": "0234567891",
+      "birthday": "2001-11-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "55/40",
+      "major": "Economics",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 14,
+      "name": "Sophia Anderson",
+      "email": "sophia@mail.com",
+      "phone": "0345678912",
+      "birthday": "2002-04-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "45/30",
+      "major": "Political Science",
+      "admissionYear": "2023"
+    },
+    {
+      "id": 15,
+      "name": "Benjamin White",
+      "email": "benjamin@mail.com",
+      "phone": "0456789123",
+      "birthday": "2003-08-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/50",
+      "major": "Communications",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 16,
+      "name": "Avery Harris",
+      "email": "avery@mail.com",
+      "phone": "0567891234",
+      "birthday": "2004-12-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "75/55",
+      "major": "Journalism",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 17,
+      "name": "Mason Davis",
+      "email": "mason@mail.com",
+      "phone": "0678912345",
+      "birthday": "2005-02-28",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "55/40",
+      "major": "English Literature",
+      "admissionYear": "2020"
+    },
+    {
+      "id": 18,
+      "name": "Harper Wilson",
+      "email": "harper@mail.com",
+      "phone": "0765432190",
+      "birthday": "2006-07-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "85/60",
+      "major": "Fine Arts",
+      "admissionYear": "2019"
+    },
+    {
+      "id": 19,
+      "name": "Evelyn Lee",
+      "email": "evelyn@mail.com",
+      "phone": "0876543210",
+      "birthday": "2007-10-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "75/55",
+      "major": "Music",
+      "admissionYear": "2021"
+    },
+    {
+      "id": 20,
+      "name": "Logan Johnson",
+      "email": "logan@mail.com",
+      "phone": "0987654321",
+      "birthday": "2008-03-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Drama",
+      "admissionYear": "2020"
+    },
+    {
+      "name": "Supanee Rungsirat",
+      "email": "Samind22@gmail.com",
+      "phone": "0123456789",
+      "birthday": "2003-06-27",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineer",
+      "admissionYear": "2021",
+      "id": 21
+    }
+  ]
+}
